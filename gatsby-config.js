@@ -6,5 +6,13 @@
 
 module.exports = {
   /* Your site config here */
-  plugins: [],
+  siteMetadata: {
+    title: "mrtnsund.dev",
+  },
+
+  plugins: [
+    {
+      resolve: `gatsby-plugin-sass`,
+    },
+  ],
 }
