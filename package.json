@@ -17,6 +17,8 @@
     "gatsby": "^2.24.54",
     "gatsby-plugin-postcss": "^2.3.12",
     "gatsby-plugin-sass": "^2.3.13",
+    "gatsby-source-filesystem": "^2.3.30",
+    "gatsby-transformer-remark": "^2.8.35",
     "node-sass": "^4.14.1",
     "particles.js": "^2.0.0",
     "react": "^16.12.0",
