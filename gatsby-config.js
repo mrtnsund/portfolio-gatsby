@@ -9,7 +9,6 @@ module.exports = {
   siteMetadata: {
     title: "mrtnsund.dev",
   },
-  pathPrefix: "/portfolio-gatsby",
   plugins: [
     `gatsby-plugin-sass`,
     {
